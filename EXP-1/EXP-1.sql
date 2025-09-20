@@ -4,7 +4,7 @@ Easy-Level Problem
 
 Problem Title: Author-Book Relationship Using Joins and Basic SQL Operations
 Procedure (Step-by-Step):
-Design two tables — one for storing author details and the other for book details.
+Design two tables â€” one for storing author details and the other for book details.
 
 Ensure a foreign key relationship from the book to its respective author.
 
@@ -12,12 +12,12 @@ Insert at least three records in each table.
 
 Perform an INNER JOIN to link each book with its author using the common author ID.
 
-Select the book title, author name, and author’s country.
+Select the book title, author name, and authorâ€™s country.
 
 Sample Output Description:
 
 When the join is performed, we get a list where each book title is shown along 
-with its author’s name and their country.
+with its authorâ€™s name and their country.
 
 */
 
